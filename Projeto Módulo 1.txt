@@ -1,0 +1,19 @@
+dificuldades
+
+flexbox;
+media query;
+html e css dá mais trabalho;
+parte estetica;
+detalhes, pontuação;
+motivação;
+github - não atualizar- estar em pastas separadas - / antes da pastas;
+
+
+aprendizados
+basico js;
+consolidar aprendizado css;
+pratica de css html;
+visão geral do conhecimento;
+consenso;
+
+perguntar quando será a avaliação para poder atualizar

@@ -1,0 +1,78 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    height: 600px;
+}
+main {
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin:  0 0 0 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    border: solid whitesmoke;
+    padding: 60px;
+    font-size: 10px;
+}
+
+main:hover {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 90px;
+    margin: 8 8 8 8;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    transition: 1000ms;  
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+.startButton {
+    color: yellow;
+    line-height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+
+}
+
+.startButton:hover {
+    color: yellow;
+    font-size: 30px;
+    line-height: 60px;
+    transition: 1000ms;
+}
+
+body footer {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    position: absolute;
+    bottom: 0;
+}
+
+.wallpaper {
+    max-width: 555px;
+    max-height: 555px;
+    width: auto;
+    height: auto;
+}
+
+.btn {
+    margin: 40px 40px;
+    padding: 20px;
+}
